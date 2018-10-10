@@ -30,7 +30,7 @@ framework: {
 | `buffer` | Number | Buffer (in percentage). |
 | `color` | String | The Quasar CSS color value the bar should be. |
 | `stripe` | Boolen | If set to `true`, the progress bar will be striped. |
-| `animate` | Boolean | If set to `true`, the progress bar will be animated. |
+| `animate` | Boolean | If set to `true`, the progress bar stripe will be animated. |
 | `indeterminate` | Boolean | If set to `true`, the state is indeterminate, meaning it is unknown when the progress will stop. |
 | `height` | String | CSS unit for height of QProgress. |
 
